@@ -48,7 +48,7 @@ public class Student {
 		
 		enroll();
 		payTution();
-		System.out.println("**********************");
+		System.out.println("******************");
 		}
 		}
 	}
